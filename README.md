@@ -1,4 +1,4 @@
 BuildJS
 =======
 
-Build with jQuery
+Built with jQuery
